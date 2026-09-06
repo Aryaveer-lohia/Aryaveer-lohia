@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ffcc&labelColor=0d1117" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
+  <a href="mailto:ARYAVEER.25719@stu.upes.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=bd00ff&labelColor=0d1117" alt="Email Badge" />
   </a>
 </p>
